@@ -4,7 +4,7 @@
 
 int main(){
 
-    puts("Hola Mundo");
+    print("Hola Mundo");
 
     return 0:
 }
